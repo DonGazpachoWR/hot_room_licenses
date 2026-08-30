@@ -1,6 +1,8 @@
 {
   "version": 1,
   "updated": "2026-08-30",
-  "revoked": [],
-  "signature": "9cdgyRqqM0nyS0pKF3AOyIWiS9c8hkyRnGxfA1bvJjClocCZyX1jpFaX21XOgr6bWck5MNjCkIGFUz7nhC1GTQ=="
+  "revoked": [
+    "HR-36C8CF964C"
+  ],
+  "signature": "ikBM5/LEc9iXvl+qq7/UNesNsjtIcyhO+i2RlrS9AO1+YNirDaTXi+eTFGQjBhtHkKPMCZsFdwXO8mGuLXco9w=="
 }
